@@ -11,13 +11,13 @@
 ### Screenshots
 
 #### GitHub Setup
-(Add github_setup.png here)
+github.png
 
 #### Google Colab Setup
-(Add colab_setup.png here)
+google colab.png
 
 #### Kaggle Setup
-(Add kaggle_setup.png here)
+kaggle.png
 
 ### Notebook
 task_01_setup_and_intro.ipynb
